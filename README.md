@@ -20,3 +20,5 @@ Some of the topics covered in Case Study, but not limited to, are:
 * Drop and create a temporary table
 * Performing multiple joins to the same tables with different joining conditions
 * Extracting Date from timestamp
+
+> All case study's requirements and resources are available [HERE](https://github.com/DataWithDanny/sql-masterclass)
