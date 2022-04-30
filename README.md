@@ -13,4 +13,10 @@ mentors, who have been dabbling in the crypto markets since 2017 and to "slice a
 * Prices
 
 Some of the topics covered in Case Study, but not limited to, are:
-*
+* Case When
+* CTEs and Subqueries
+* Window functions including Ranks
+* Combining CTEs and joins for step-wise queries
+* Drop and create a temporary table
+* Performing multiple joins to the same tables with different joining conditions
+* Extracting Date from timestamp
